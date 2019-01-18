@@ -1,0 +1,22 @@
+{
+    "name": "zdzx/admin",
+    "description": "admin",
+    "require": {
+        "php": ">=7.0"
+    },
+    "require-dev": {
+        "php": ">=7.0"
+    },
+    "authors": [
+        {
+            "name": "佰鹏科技",
+            "email": "mail@whbpkj.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "zdzx\\": "src/"
+        }
+    }
+}
